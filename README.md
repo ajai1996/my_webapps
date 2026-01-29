@@ -1,2 +1,2 @@
 # my_webapps
-webapps
+Species prediction webapp
